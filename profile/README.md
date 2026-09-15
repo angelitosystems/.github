@@ -36,12 +36,14 @@ Our focus is simple:
 <td width="50%">
 
 ### ◇ Software
+
 Modern systems designed around real business workflows — web, desktop and mobile.
 
 </td>
 <td width="50%">
 
 ### ◇ SaaS
+
 Cloud products built for scale, reliability and continuous evolution.
 
 </td>
@@ -50,12 +52,14 @@ Cloud products built for scale, reliability and continuous evolution.
 <td>
 
 ### ◇ Automation
+
 Less repetitive work. More intelligent processes.
 
 </td>
 <td>
 
 ### ◇ AI
+
 Practical AI and machine learning integrated into real products.
 
 </td>
@@ -71,6 +75,7 @@ Practical AI and machine learning integrated into real products.
 <td width="33%" valign="top">
 
 ### 🩺 LifeMedSys
+
 **Healthcare SaaS**
 
 Medical management software focused on connected workflows, administration and digital healthcare operations.
@@ -81,6 +86,7 @@ Medical management software focused on connected workflows, administration and d
 <td width="33%" valign="top">
 
 ### 🦷 Dental System
+
 **Dental Practice Management**
 
 Desktop platform for dental clinic operations — patients, appointments, treatments and billing workflows — plus a companion web dashboard for clinics.
@@ -91,6 +97,7 @@ Desktop platform for dental clinic operations — patients, appointments, treatm
 <td width="33%" valign="top">
 
 ### 🧰 Developer Tools
+
 **Angelito Systems Packages**
 
 Reusable developer tooling for modern backend and software engineering workflows, including a multi‑tenancy package for Laravel and a NestJS DevTools dashboard.
@@ -110,6 +117,7 @@ Reusable developer tooling for modern backend and software engineering workflows
 We build across the full stack — web, backend, mobile, desktop and game development.
 
 ### Backend
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -119,6 +127,7 @@ We build across the full stack — web, backend, mobile, desktop and game develo
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Frontend & Web
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -127,6 +136,7 @@ We build across the full stack — web, backend, mobile, desktop and game develo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Mobile, Desktop & Game Dev
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -135,6 +145,7 @@ We build across the full stack — web, backend, mobile, desktop and game develo
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ### Data & Infrastructure
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -142,6 +153,7 @@ We build across the full stack — web, backend, mobile, desktop and game develo
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### AI / Machine Learning
+
 ![AI](https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
 
@@ -234,17 +246,15 @@ A technology-focused character representing **intelligence, software, systems an
 
 <div align="center">
 
-<img src="./assets/founder/founder-placeholder.svg" width="170" alt="Founder photo placeholder">
+<img src="./assets/founder/founder.png" width="170" alt="Founder photo">
 
 ### Angel Calderón
 
 **Founder & Full-Stack Software Engineer**
 
-*Building technology with purpose, across web, mobile, desktop and game development.*
+_Building technology with purpose, across web, mobile, desktop and game development._
 
 </div>
-
-> Replace `assets/founder/founder-placeholder.svg` with the founder's real approved photo when available. No biography or credentials are fabricated here.
 
 ---
 
