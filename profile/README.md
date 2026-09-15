@@ -80,9 +80,130 @@ Intuitive, highly responsive web interfaces (React, Inertia.js, Tailwind CSS) an
 
 ---
 
-## 🚀 Featured Open Source Repositories
+## 🌟 Featured Flagship: [nestjs-pdf](https://github.com/angelitosystems/nestjs-pdf)
 
-Explore the core public packages and software solutions engineered by Angelito Systems:
+<div align="center">
+
+### 📄 Enterprise-Grade PDF Generation Module for NestJS
+**High-concurrency PDF rendering engine powered by Playwright browser pooling and Handlebars templates**
+
+<br>
+
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/angelitosystems/nestjs-pdf)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/angelitosystems/nestjs-pdf)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/angelitosystems/nestjs-pdf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/angelitosystems/nestjs-pdf/blob/main/LICENSE)
+[![Pull Requests](https://img.shields.io/badge/PRs-16_Merged-2563EB?style=for-the-badge&logo=github)](https://github.com/angelitosystems/nestjs-pdf/pulls)
+
+<br>
+
+</div>
+
+> **Modern, robust, and enterprise-grade PDF generation module for NestJS.** Engineered for high-throughput production services with intelligent browser instance pooling, automated lifecycle management, zero memory leaks, dynamic Handlebars data binding, and precision CSS/PDF layout control.
+
+```bash
+# Clone and explore nestjs-pdf
+$ git clone https://github.com/angelitosystems/nestjs-pdf.git
+```
+
+<div align="center">
+
+`pdf` · `typescript` · `handlebars` · `concurrency` · `html-to-pdf` · `pdf-generation` · `nestjs` · `playwright` · `browser-pool` · `angelitosystems`
+
+</div>
+
+---
+
+## 📦 NestJS & TypeScript Ecosystem
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [nestjs-pdf](https://github.com/angelitosystems/nestjs-pdf)
+**Enterprise PDF Module with Playwright**
+
+Modern PDF generation with browser instance pooling, concurrency queuing, and Handlebars template compilation.
+
+`NestJS` `TypeScript` `Playwright` `PDF` `Concurrency`
+
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/nestjs-pdf)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/angelitosystems/nestjs-pdf/blob/main/LICENSE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [nest-auth](https://github.com/angelitosystems/nest-auth)
+**Enterprise Authentication & Security for NestJS**
+
+Production-grade authentication module featuring JWT strategies, refresh token rotation, RBAC guards, and security interceptors.
+
+`NestJS` `TypeScript` `Auth` `JWT` `Security` `RBAC`
+
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/nest-auth)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/angelitosystems/nest-auth/blob/main/LICENSE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [SDK-VISIONER7](https://github.com/angelitosystems/SDK-VISIONER7)
+**NestJS Fiscal & SUNAT Integration SDK**
+
+TypeScript & NestJS SDK to integrate external fiscal services: SUNAT document queries, CPE electronic invoicing, and dispatch guide dispatching.
+
+`TypeScript` `NestJS` `SUNAT` `CPE` `SDK`
+
+[![Stars](https://img.shields.io/github/stars/angelitosystems/SDK-VISIONER7?style=flat-square&color=2563EB)](https://github.com/angelitosystems/SDK-VISIONER7/stargazers)
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/SDK-VISIONER7)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [nest-devtools](https://github.com/angelitosystems/nest-devtools)
+**NestJS Diagnostics & Inspection Suite**
+
+Developer tooling for NestJS services: module dependency inspection, route graph visualization, and telemetry debugging.
+
+`NestJS` `JavaScript` `DevTools` `Diagnostics`
+
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/nest-devtools)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/angelitosystems/nest-devtools/blob/main/LICENSE)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [veloxis](https://github.com/angelitosystems/veloxis)
+**Ultra-Fast HTTP & GraphQL Client**
+
+High-performance, modular HTTP and GraphQL client optimized for Node.js backends and browser applications.
+
+`TypeScript` `Node.js` `GraphQL` `HTTP`
+
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/veloxis)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [css-tailwind-minifier](https://github.com/angelitosystems/css-tailwind-minifier)
+**VS Code Extension for CSS & Tailwind**
+
+Lightweight Visual Studio Code extension to minify stylesheets and clean Tailwind CSS utility classes directly within the editor.
+
+`TypeScript` `VS Code` `Tailwind CSS` `Extension`
+
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/css-tailwind-minifier)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Laravel, Multi-Tenancy & SaaS Packages
 
 <table>
 <tr>
@@ -118,34 +239,6 @@ Production-grade foundation featuring Laravel 12, PHP 8.4, Inertia.js, and React
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [veloxis](https://github.com/angelitosystems/veloxis)
-
-**Ultra-Fast HTTP & GraphQL Client**
-
-Lightweight, modular, and high-performance HTTP and GraphQL client designed for modern Node.js and browser environments.
-
-`TypeScript` `Node.js` `GraphQL` `HTTP`
-
-[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/veloxis)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [nestjs-pdf](https://github.com/angelitosystems/nestjs-pdf)
-
-**Enterprise PDF Module for NestJS**
-
-Modern, robust PDF generation module powered by Playwright and Handlebars templates for pixel-perfect document rendering.
-
-`NestJS` `TypeScript` `Playwright` `PDF`
-
-[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/nestjs-pdf)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧾 [fact_api](https://github.com/angelitosystems/fact_api)
 
 **SUNAT Electronic Invoicing API (Perú)**
@@ -159,15 +252,15 @@ RESTful API built with Laravel 12 and Greenter for SUNAT Perú. Generates and si
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [SDK-VISIONER7](https://github.com/angelitosystems/SDK-VISIONER7)
+### 🔍 [Google-Material-Symbols-Helper](https://github.com/angelitosystems/Google-Material-Symbols-Helper)
 
-**NestJS & TypeScript Fiscal SDK**
+**Google Material Symbols Extension**
 
-Enterprise integration SDK for NestJS to query SUNAT fiscal records, issue electronic payment vouchers (CPE), and process dispatch guides.
+Busca, previsualiza, autocompleta e inserta iconos de Google Material Symbols en proyectos web directamente desde el editor.
 
-`TypeScript` `NestJS` `SDK` `Fintech`
+`TypeScript` `VS Code` `Icons` `Web`
 
-[![Stars](https://img.shields.io/github/stars/angelitosystems/SDK-VISIONER7?style=flat-square&color=2563EB)](https://github.com/angelitosystems/SDK-VISIONER7/stargazers)
+[![Repo](https://img.shields.io/badge/View-Repository-2563EB?style=flat-square)](https://github.com/angelitosystems/Google-Material-Symbols-Helper)
 
 </td>
 </tr>

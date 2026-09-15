@@ -79,24 +79,24 @@
       </g>
     </g>
 
-    <!-- Card 3: NestJS PDF & TypeScript SDKs -->
+    <!-- Card 3: NestJS PDF Enterprise Module -->
     <g transform="translate(536, 0)">
       <rect width="250" height="154" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.2" />
-      <rect x="0" y="0" width="250" height="3" rx="1" fill="#3178C6" />
+      <rect x="0" y="0" width="250" height="3" rx="1" fill="#E0234E" />
       <g transform="translate(16, 20)">
-        <text x="0" y="10" class="repo-name">nestjs-pdf &amp; veloxis</text>
-        <text x="0" y="32" class="repo-desc">Playwright enterprise PDF engine</text>
-        <text x="0" y="48" class="repo-desc">&amp; modular HTTP/GraphQL client.</text>
+        <text x="0" y="10" class="repo-name">nestjs-pdf</text>
+        <text x="0" y="32" class="repo-desc">Enterprise Playwright PDF engine</text>
+        <text x="0" y="48" class="repo-desc">with browser pool &amp; concurrency.</text>
 
         <g transform="translate(0, 70)">
-          <rect width="74" height="20" rx="4" fill="#1E293B" />
-          <text x="8" y="14" class="repo-tag">TYPESCRIPT</text>
+          <rect width="60" height="20" rx="4" fill="#1E293B" />
+          <text x="8" y="14" class="repo-tag">NESTJS</text>
 
-          <rect x="80" width="60" height="20" rx="4" fill="#1E293B" />
-          <text x="88" y="14" class="repo-tag">NESTJS</text>
+          <rect x="66" width="82" height="20" rx="4" fill="#1E293B" />
+          <text x="74" y="14" class="repo-tag">PLAYWRIGHT</text>
 
-          <rect x="146" width="62" height="20" rx="4" fill="#1E293B" />
-          <text x="154" y="14" class="repo-tag">NODE.JS</text>
+          <rect x="154" width="76" height="20" rx="4" fill="#1E293B" />
+          <text x="162" y="14" class="repo-tag">TYPESCRIPT</text>
         </g>
       </g>
     </g>
