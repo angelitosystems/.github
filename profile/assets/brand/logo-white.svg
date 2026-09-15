@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="Angelito Systems">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+<g transform="translate(8 8)">
+<path d="M52 8 18 86h20l7-17h33l7 17h20L71 8H52Zm9 25 11 20H50l11-20Z" fill="url(#g)"/>
+<path d="M61 8 84 33 61 58 38 33 61 8Z" fill="none" stroke="#fff" stroke-width="4" opacity=".92"/>
+</g>
+<text x="120" y="58" font-family="Inter,Arial,sans-serif" font-size="39" font-weight="800" letter-spacing="1.2" fill="#FFFFFF">ANGELITO</text>
+<text x="120" y="91" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="5" fill="#2563EB">SYSTEMS</text>
+</svg>

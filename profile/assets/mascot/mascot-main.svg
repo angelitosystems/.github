@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+<defs><linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+<ellipse cx="180" cy="315" rx="90" ry="16" fill="#0F172A" opacity=".12"/>
+<g stroke="#0F172A" stroke-width="7" stroke-linejoin="round">
+ <path d="M105 165 65 125 45 153l63 55" fill="#93C5FD"/>
+ <path d="M255 165 295 125 315 153l-63 55" fill="#93C5FD"/>
+ <rect x="91" y="72" width="178" height="170" rx="70" fill="url(#m)"/>
+ <path d="M126 97 151 72l29 31-27 19Z" fill="#DBEAFE" stroke="none"/>
+ <path d="M234 97 209 72l-29 31 27 19Z" fill="#DBEAFE" stroke="none"/>
+ <circle cx="145" cy="151" r="10" fill="#fff"/>
+ <circle cx="215" cy="151" r="10" fill="#fff"/>
+ <circle cx="145" cy="151" r="4" fill="#0F172A" stroke="none"/>
+ <circle cx="215" cy="151" r="4" fill="#0F172A" stroke="none"/>
+ <path d="M151 190q29 24 58 0" fill="none" stroke="#fff"/>
+ <rect x="112" y="235" width="136" height="50" rx="20" fill="#111827"/>
+ <path d="M140 260h80" stroke="#60A5FA" stroke-width="5"/>
+ 
+</g>
+<text x="180" y="345" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="13" fill="#64748B">ANGELITO SYSTEMS</text>
+</svg>
