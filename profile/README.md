@@ -323,6 +323,6 @@ Leading the company's **software architecture, engineering standards, technical 
 
 > **Build. Automate. Evolve.**
 
-© Angelito Systems. All rights reserved.
+© 2026 Angelito Systems S.A.C. All rights reserved.
 
 </div>
