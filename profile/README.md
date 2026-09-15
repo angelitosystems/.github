@@ -6,15 +6,14 @@
 
 <br><br>
 
-# Software · AI · Automation · SaaS
-
-### Building software that turns ideas into scalable digital products.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Software+%C2%B7+AI+%C2%B7+Automation+%C2%B7+SaaS;Turning+ideas+into+scalable+digital+products;Web+%C2%B7+Mobile+%C2%B7+Desktop+%C2%B7+Game+Dev" alt="Typing SVG" />
 
 <br>
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-Angelito%20Systems-111827?style=for-the-badge&logo=github)](https://github.com/angelito-systems)
 [![Open Source](https://img.shields.io/badge/Open%20Source-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/angelito-systems)
 [![Software Engineering](https://img.shields.io/badge/Engineering-60A5FA?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/angelito-systems)
+[![Based in Peru](https://img.shields.io/badge/Based%20in-Trujillo%2C%20Peru-D91023?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/angelito-systems)
 
 </div>
 
@@ -26,7 +25,7 @@
 
 ## ✦ What We Build
 
-**Angelito Systems** creates software products, SaaS platforms, automation systems, APIs and AI-powered solutions.
+**Angelito Systems** creates software products, SaaS platforms, automation systems, APIs, desktop and mobile applications, and AI‑powered solutions — end to end, from architecture to deployment.
 
 Our focus is simple:
 
@@ -37,7 +36,7 @@ Our focus is simple:
 <td width="50%">
 
 ### ◇ Software
-Modern systems designed around real business workflows.
+Modern systems designed around real business workflows — web, desktop and mobile.
 
 </td>
 <td width="50%">
@@ -82,11 +81,11 @@ Medical management software focused on connected workflows, administration and d
 <td width="33%" valign="top">
 
 ### 🦷 Dental System
-**Dental Management**
+**Dental Practice Management**
 
-A modern platform for dental clinic operations, patients, appointments, treatments and workflows.
+Desktop platform for dental clinic operations — patients, appointments, treatments and billing workflows — plus a companion web dashboard for clinics.
 
-`Laravel` `Svelte` `Inertia`
+`Java Swing` `React` `NestJS`
 
 </td>
 <td width="33%" valign="top">
@@ -94,9 +93,9 @@ A modern platform for dental clinic operations, patients, appointments, treatmen
 ### 🧰 Developer Tools
 **Angelito Systems Packages**
 
-Reusable developer tooling for modern backend and software engineering workflows.
+Reusable developer tooling for modern backend and software engineering workflows, including a multi‑tenancy package for Laravel and a NestJS DevTools dashboard.
 
-`NestJS` `TypeScript` `Node.js`
+`NestJS` `TypeScript` `Node.js` `Bun`
 
 </td>
 </tr>
@@ -108,17 +107,32 @@ Reusable developer tooling for modern backend and software engineering workflows
 
 ## 🧠 Technology
 
+We build across the full stack — web, backend, mobile, desktop and game development.
+
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Frontend
+### Frontend & Web
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Mobile, Desktop & Game Dev
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![.NET / C%23](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -156,7 +170,7 @@ We optimize for:
 
 > **Building tools that help developers build better software.**
 
-Our open-source work focuses on practical packages and reusable engineering components.
+Our open-source work focuses on practical packages and reusable engineering components — from a Laravel multi‑tenancy package to Postman‑style NestJS developer tooling.
 
 <div align="center">
 
@@ -171,6 +185,15 @@ Our open-source work focuses on practical packages and reusable engineering comp
 <div align="center">
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=angelito-systems&theme=github-compact&hide_border=true&area=true)
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelito-systems&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Angelito Systems GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=angelito-systems&hide_border=true" alt="Angelito Systems GitHub streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelito-systems&layout=compact&hide_border=true" alt="Most used languages" />
 
 </div>
 
@@ -215,9 +238,9 @@ A technology-focused character representing **intelligence, software, systems an
 
 ### Angel Calderón
 
-**Founder & Software Engineer**
+**Founder & Full-Stack Software Engineer**
 
-*Building technology with purpose.*
+*Building technology with purpose, across web, mobile, desktop and game development.*
 
 </div>
 
